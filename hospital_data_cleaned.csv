@@ -1,0 +1,21 @@
+Patient_ID,Name,Age,Gender,Treatment,Department,Admission_Date,Discharge_Date,Treatment_Cost,Insurance_Covered,Stay_Duration
+1,John,13,Male,MRI,Orthopedics,2024-01-01,2024-01-03,1477.0,No,2
+2,Anita,40,Male,MRI,Radiology,2024-01-08,2024-01-10,9142.0,No,2
+3,Ramesh,32,Male,Therapy,Surgery,2024-01-15,2024-01-17,4912.105263157895,Yes,2
+4,Sara,18,Male,Surgery,Pathology,2024-01-22,2024-01-24,8762.0,Yes,2
+5,Ali,31,Male,Therapy,General,2024-01-29,2024-01-31,3006.0,No,2
+6,Meena,19,Female,Surgery,Pathology,2024-02-05,2024-02-07,1255.0,No,2
+7,David,50,Male,Therapy,Surgery,2024-02-12,2024-02-14,1538.0,Yes,2
+8,Arjun,64,Female,Blood Test,Surgery,2024-02-19,2024-02-21,2397.0,Yes,2
+9,Fatima,18,Female,MRI,Radiology,2024-02-26,2024-02-28,5447.0,Yes,2
+10,Priya,25,Female,Therapy,Surgery,2024-03-04,2024-03-06,5442.0,Yes,2
+11,Tom,33,Female,MRI,Surgery,2024-03-11,2024-03-13,2683.0,Yes,2
+12,Suresh,13,Male,MRI,Pathology,2024-03-18,2024-03-20,1531.0,No,2
+13,Nina,18,Female,Therapy,Pathology,2024-03-25,2024-03-27,9693.0,No,2
+14,Mohit,66,Male,Blood Test,Surgery,2024-04-01,2024-04-03,8611.0,No,2
+15,Sophia,62,Female,MRI,Pathology,2024-04-08,2024-04-10,8971.0,No,2
+16,Kiran,38,Male,Blood Test,Radiology,2024-04-15,2024-04-17,4951.0,No,2
+17,James,58,Female,Surgery,Radiology,2024-04-22,2024-04-24,6491.0,No,2
+18,Zara,55,Male,Therapy,General,2024-04-29,2024-05-01,3559.0,Yes,2
+19,Krishna,60,Female,X-Ray,Orthopedics,2024-05-06,2024-05-08,2272.0,Yes,2
+20,Emma,40,Female,Therapy,Orthopedics,2024-05-13,2024-05-15,6102.0,Yes,2
